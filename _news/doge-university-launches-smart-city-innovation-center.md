@@ -4,6 +4,7 @@ title: "DOGE University Launches Smart City Innovation Center"
 date: "2024-05-20 09:00:00 +0000"
 categories: news
 ---
+# DOGE University Launches Smart City Innovation Center
 
 DOGE University has unveiled its groundbreaking Smart City Innovation Center, marking a major step towards revolutionizing urban living through technology. In collaboration with industry giants and municipal leaders, the center is dedicated to developing integrated solutions that enhance quality of life, optimize city operations, and drive sustainable development.
 

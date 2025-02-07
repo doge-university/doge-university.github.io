@@ -4,6 +4,7 @@ title: "DOGE University Launches Revolutionary Quantum Computing Program"
 date: "2023-11-05 15:00:00 +0000"  
 categories: news  
 ---
+# DOGE University Launches Revolutionary Quantum Computing Program
 
 In a major stride towards advancing scientific research and technological innovation, DOGE University is proud to announce its groundbreaking Quantum Computing Program. This revolutionary initiative is designed to push the boundaries of computational power by integrating advanced quantum research into its core curriculum.
 

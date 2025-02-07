@@ -4,6 +4,7 @@ title: "DOGE University Expands Global Research Collaboration"
 date: "2023-12-10 11:00:00 +0000"
 categories: news
 ---
+# DOGE University Expands Global Research Collaboration
 
 DOGE University has announced a significant expansion in its global research collaboration efforts. The university has reinforced its international footprint by forging new partnerships with top-tier research institutions and leading technology companies across Europe, Asia, and North America.
 

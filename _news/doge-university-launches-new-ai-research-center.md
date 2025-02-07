@@ -4,6 +4,7 @@
  layout: textlay
  categories: news 
 ---
+# DOGE University Launches New AI Research Center
 
 DOGE University proudly announces the opening of its state-of-the-art Artificial Intelligence Research Center dedicated to advancing cutting-edge AI technologies and fostering interdisciplinary research partnerships.
 

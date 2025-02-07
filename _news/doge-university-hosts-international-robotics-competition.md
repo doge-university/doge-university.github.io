@@ -4,6 +4,7 @@ title: "DOGE University Hosts International Robotics Competition"
 date: "2023-12-01 10:00:00 +0000"
 categories: news
 ---
+# DOGE University Hosts International Robotics Competition
 
 DOGE University proudly hosted its inaugural International Robotics Competition, drawing teams from around the world to showcase their ingenuity and technical prowess. The competition featured a series of challenging tasks, including obstacle navigation, autonomous task management, and collaborative robotics demonstrations, all taking place in a state-of-the-art facility.
 

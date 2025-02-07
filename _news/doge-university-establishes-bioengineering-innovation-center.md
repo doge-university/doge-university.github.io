@@ -4,6 +4,7 @@ title: "DOGE University Establishes Bioengineering Innovation Center"
 date: "2024-10-25 09:00:00 +0000"
 categories: news
 ---
+# DOGE University Establishes Bioengineering Innovation Center
 
 DOGE University is proud to announce the establishment of its Bioengineering Innovation Center, a state-of-the-art facility dedicated to advancing research in biomedical engineering, regenerative medicine, and biotech innovation. The center features cutting-edge laboratories, 3D bioprinting equipment, and advanced imaging systems designed to support interdisciplinary research projects.
 
