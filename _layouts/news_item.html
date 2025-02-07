@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    {% include header.html %}
+    <div class="container" style="margin-top: 20px;">
+      <article class="news-item">
+        <h1>{{ page.title }}</h1>
+        <p><em>{{ page.date | date: "%B %d, %Y" }}</em></p>
+        <div>
+          {{ content }}
+        </div>
+      </article>
+    </div>
+    {% include footer.html %}
+  </body>
+</html> 

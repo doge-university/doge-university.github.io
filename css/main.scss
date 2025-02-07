@@ -91,3 +91,34 @@ firstp {
     margin-right: 30px;
 }
 
+@media (max-width: 768px) {
+  .hero {
+    padding: 60px 0 !important;
+  }
+  .hero h1 {
+    font-size: 2em;
+  }
+  .hero p {
+    font-size: 1.2em;
+  }
+  .home-logo {
+    max-width: 200px !important;
+  }
+  .container {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/* 修正首页banner上的container宽度问题 */
+.container {
+  width: 100%;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
