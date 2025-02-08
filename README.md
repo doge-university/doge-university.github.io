@@ -1,11 +1,18 @@
-# The CAM Group Website
+# DOGE University Website
 
-This is the website of our academic research group at the Institute for Manufacturing in the Department of Engineering at the University of Cambridge.
+such website, very academic, much research, many innovation, wow!
 
-This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to make it simple yet adaptable, so that it is easy for you to use it as a template. Plese feel free to copy and modify for your own purposes.
+This website is the digital home of **DOGE University**, where Doge meets academia in the most memetic way:
+- **much learning**: Overflowing with wisdom and endless knowledge.
+- **very research**: Cutting-edge academic research is so intense, such discovery!
+- **many community**: A vibrant community of scholars and meme-lovers, so interactive!
+- **such innovation**: Creativity and breakthrough ideas, very exciting!
 
-Thanks to the [Allan Lab](http://www.allanlab.org/) for providing the basis for this site. Source available [here](https://github.com/mpa139/allanlab).
+Powered by Jekyll, Bootstrap, and Bootwatch — so simple, very adaptable, many customization!  
+Feel free to copy and modify for your own adventures — such open-source, much freedom, wow!
 
+Kudos to [Allan Lab](http://www.allanlab.org/) for the inspiration and base template.  
+Source code available [here](https://github.com/doge-university/doge-university.github.io).
 
-Copyright CAM Group. Code released under the MIT License.
+© DOGE University. Code released under the MIT License — such open, much share, wow!
 
