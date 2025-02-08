@@ -31,4 +31,4 @@ Candidates for our graduate programs should hold a relevant undergraduate degree
 
 DOGE University welcomes applications from international students. We provide support with visa processing and English proficiency requirements. Please refer to our international admissions guidelines for more details.
 
-For further information, please contact our admissions office at admissions@dogeuniversity.edu. 
+For further information, please contact our admissions office at admissions@doge.edu.kg. 

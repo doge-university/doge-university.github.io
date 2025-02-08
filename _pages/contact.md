@@ -23,7 +23,7 @@ Utopia
 
 ## Email
 
-[contact@dogeuniversity.edu](mailto:contact@dogeuniversity.edu)
+[contact@doge.edu.kg](mailto:contact@doge.edu.kg)
 
 ## Social Media
 
@@ -35,7 +35,7 @@ Utopia
 
 For any inquiries, please fill out the contact form below (this is a placeholder; you can integrate your preferred contact form service):
 
-<form action="mailto:contact@dogeuniversity.edu" method="post" enctype="text/plain">
+<form action="mailto:contact@doge.edu.kg" method="post" enctype="text/plain">
   <label for="name">Name:</label><br>
   <input type="text" id="name" name="name"><br><br>
   <label for="email">Email:</label><br>
